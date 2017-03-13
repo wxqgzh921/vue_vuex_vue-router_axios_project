@@ -1,4 +1,4 @@
-# vue_vuex_notepad
+# vue_vuex_vue-router_axios
 
 > A Vue.js project
 
